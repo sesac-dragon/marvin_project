@@ -1,0 +1,5 @@
+user=marvin
+password=test1234
+host=localhost
+port=3306
+database=marvin_project

@@ -1,0 +1,7 @@
+streamlit
+plotly
+seaborn
+pymysql
+faker
+sqlalchemy
+os
